@@ -53,12 +53,6 @@ client.on("message", async msg => {
           channel.leave();},9000);
         
       }
-
- 
-      
-    
-
-    
 })
 
 client.login(process.env.TOKEN)
